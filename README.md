@@ -1,5 +1,4 @@
-!(./FDR Logo.jpeg)
-
+<img alt="SuperMario" title="SuperMario" src="./FDR Logo.jpeg" width="450">
 ### Hi👋 I'm Fernando, director of FDR Dance
 :man_student: Graduated as a dancer-performer from CODARTS Rotterdam Dance Academy. 
  
