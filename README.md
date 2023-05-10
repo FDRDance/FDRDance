@@ -1,5 +1,7 @@
-<img alt="SuperMario" title="SuperMario" src="./FDR Logo.jpeg" width="450">
 ### Hi👋 I'm Fernando, director of FDR Dance
+
+<img alt="SuperMario" title="SuperMario" src="./FDR Logo.jpeg" width="450">
+
 :man_student: Graduated as a dancer-performer from CODARTS Rotterdam Dance Academy. 
  
    - Artistic specialization in ballet technique focused in modern and contemporary dance.
