@@ -1,7 +1,7 @@
 ### Hi👋 I'm Fernando, director of FDR Dance
-
+<p align="center">
 <img alt="SuperMario" title="SuperMario" src="./FDR Logo.jpeg" width="450">
-
+</p>
 :man_student: Graduated as a dancer-performer from CODARTS Rotterdam Dance Academy. 
  
    - Artistic specialization in ballet technique focused in modern and contemporary dance.
