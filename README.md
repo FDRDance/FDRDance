@@ -27,4 +27,8 @@ At FDR Dance we believe that "Movement is the language of existence"*
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   <span>Facebook</span>
 </a><p></p>
+<a href="mailto:fdrdance@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <span>Mail</span>
+</a><p></p>
 
