@@ -3,6 +3,11 @@
 <img alt="FDR" title="FDR" src="./FDR Logo.jpeg" width="450">
 </p>
 
+# 🧷 About Formale Dance Research (FDR)
+We are a contemporary dance company, an educational platform, an entity that promotes movement research and the dissemination of art and culture in Mexico and Europe.
+The exchange and constant updating are essential for artistic development, at FDR Dance we believe that by generating and strengthening collaboration networks between artists from different latitudes we contribute to the development of contemporary dance and culture.
+We constantly offer training and opportunities for professional and artistic growth.
+
 # 🎓 Graduation
 Graduated as a dancer-performer from CODARTS Rotterdam Dance Academy. 
  
