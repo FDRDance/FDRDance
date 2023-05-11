@@ -16,8 +16,10 @@
 At FDR Dance we believe that "Movement is the language of existence"*
 
 # ✍🏻 Contact me:
+<a href="https://www.instagram.com/FDRDance/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   <span>Instagram</span>
+</a
 <!--
 **FDRDance/FDRDance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
